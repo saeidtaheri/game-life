@@ -1,0 +1,17 @@
+{
+  "name": "saeidtaheri/gameoflife",
+  "type": "project",
+  "description": "Simple game of life simulation",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Saeid Taheri"
+    }
+  ],
+  "require": {}
+}
